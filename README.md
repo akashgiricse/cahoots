@@ -1,0 +1,10 @@
+# Welcome to Weekly Target
+
+The following repository is a **Weekly Target** tracker of me and my friend [Anand Nigam](https://github.com/anand2nigam). <br>
+The purpose of logging our weekly target's side by side is to learn new skills and motivate each other to not lose track.
+
+| Week | Anand Nigam | Akash Giri |
+| :-------------: | ------------------- | -------------------------- |
+| Week 01 <br>  **12/04/2020**| <ul><li>[ ] Finish Algorithmic complexity lectures in [CIU](https://github.com/jwasham/coding-interview-university#arrays)</li><li>[ ] Finish Chapter 3 (Algorithm Analysis) of DSA in Python with exercise.</li><li>[ ] Finish chapter 1 of C Programming Langauge book.</li></ul> | <ul><li>[ ] Finish Algorithmic complexity lectures in [CIU](https://github.com/jwasham/coding-interview-university#arrays)</li><li>[ ] Finish Chapter 3 (Algorithm Analysis) of DSA in Python with exercise.</li><li>[ ] Finish chapter 1 of C Programming Langauge book.</li></ul> |
+| Week 02 <br>  **19/04/2020**| <ul><li>[ ] Finish Algorithmic complexity lectures in [CIU](https://github.com/jwasham/coding-interview-university#arrays)</li><li>[ ] Finish Chapter 3 (Algorithm Analysis) of DSA in Python with exercise.</li><li>[ ] Finish chapter 1 of C Programming Langauge book.</li></ul> | <ul><li>[ ] Finish Algorithmic complexity lectures in [CIU](https://github.com/jwasham/coding-interview-university#arrays)</li><li>[ ] Finish Chapter 3 (Algorithm Analysis) of DSA in Python with exercise.</li><li>[ ] Finish chapter 1 of C Programming Langauge book.</li></ul> |
+| Week 03 <br>  **26/04/2020**| <ul><li>[ ] Finish Algorithmic complexity lectures in [CIU](https://github.com/jwasham/coding-interview-university#arrays)</li><li>[ ] Finish Chapter 3 (Algorithm Analysis) of DSA in Python with exercise.</li><li>[ ] Finish chapter 1 of C Programming Langauge book.</li></ul> | <ul><li>[ ] Finish Algorithmic complexity lectures in [CIU](https://github.com/jwasham/coding-interview-university#arrays)</li><li>[ ] Finish Chapter 3 (Algorithm Analysis) of DSA in Python with exercise.</li><li>[ ] Finish chapter 1 of C Programming Langauge book.</li></ul> |
