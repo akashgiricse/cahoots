@@ -12,33 +12,33 @@ This plan is designed to systematically prepare you for the Google Software Engi
 #### **Week 1:** Arrays, Strings, and Linked Lists
 - **Topics:** Basics, traversal, two-pointer technique, sliding window, and common operations.
 - **Daily Practice:** Solve 3-4 problems on LeetCode (Easy to Medium difficulty).
-- **Resources:**
+- **Resources:** 
   - "Cracking the Coding Interview" by Gayle Laakmann McDowell
-  - Neetcode YouTube channel ("Arrays" and "Strings" playlists)
+  - [LeetCode Explore Section: Arrays and Strings](https://leetcode.com/explore/learn/)
 - **Checkpoint:** By the weekend, solve at least 20 problems and summarize key techniques.
 
 #### **Week 2:** Stacks, Queues, and Hashing
 - **Topics:** Stack operations, monotonic stack, LRU cache, and hashing-based problem-solving.
 - **Daily Practice:** Solve 3-4 problems on LeetCode.
-- **Resources:**
+- **Resources:** 
   - "Introduction to Algorithms" by Cormen (Chapter on Stacks and Queues)
-  - Neetcode’s “Stacks” and “Hashing” playlists.
+  - [freeCodeCamp YouTube: Data Structures Tutorials](https://www.youtube.com/c/Freecodecamp)
 - **Checkpoint:** Solve 15+ stack and queue problems, and review hashing strategies.
 
 #### **Week 3:** Trees and Graphs (Basics)
 - **Topics:** Binary trees, binary search trees, DFS, BFS, and graph representations.
 - **Daily Practice:** Solve 3-4 problems.
-- **Resources:**
+- **Resources:** 
   - "Data Structures and Algorithm Analysis in C++" by Mark Allen Weiss
-  - Take Udemy’s “Master the Coding Interview: Data Structures and Algorithms” course.
+  - [CS50 Introduction to Data Structures](https://cs50.harvard.edu/)
 - **Checkpoint:** Implement DFS/BFS and solve at least 15 problems.
 
 #### **Week 4:** Sorting and Searching Algorithms
 - **Topics:** Merge sort, quick sort, binary search, and two-pointer search.
 - **Daily Practice:** Solve 4 problems focusing on each algorithm.
-- **Resources:**
+- **Resources:** 
   - "Algorithms" by Robert Sedgewick
-  - Visualizations on Visualgo.net
+  - [Khan Academy: Searching and Sorting](https://www.khanacademy.org/computing/computer-science/algorithms)
 - **Checkpoint:** Solve 20 problems on LeetCode and ensure sorting/searching mastery.
 
 ---
@@ -50,33 +50,33 @@ This plan is designed to systematically prepare you for the Google Software Engi
 #### **Month 2 - Week 1-2:** Dynamic Programming (DP)
 - **Topics:** Knapsack problems, LCS/LCM, matrix-chain multiplication, and DP on trees.
 - **Daily Practice:** Solve 3-4 problems.
-- **Resources:**
+- **Resources:** 
   - "Dynamic Programming for Coding Interviews" by Meenakshi
-  - Striver’s DP series on YouTube.
+  - [CodeChef’s Dynamic Programming Tutorials](https://www.codechef.com/)
 - **Checkpoint:** Solve 25+ DP problems and summarize key patterns.
 
 #### **Month 2 - Week 3-4:** Advanced Graph Algorithms
 - **Topics:** Topological sort, Dijkstra’s algorithm, Bellman-Ford, and Floyd-Warshall.
 - **Daily Practice:** Solve 3-4 problems.
-- **Resources:**
+- **Resources:** 
   - "Graph Algorithms" by Shimon Even
-  - Tushar Roy’s YouTube channel.
+  - [CP-Algorithms Graph Tutorials](https://cp-algorithms.com/)
 - **Checkpoint:** Solve at least 20 advanced graph problems.
 
 #### **Month 3 - Week 1-2:** Backtracking and Greedy Algorithms
 - **Topics:** N-Queens, permutations, subsets, and interval scheduling problems.
 - **Daily Practice:** Solve 3-4 problems.
-- **Resources:**
+- **Resources:** 
   - "Elements of Programming Interviews" by Adnan Aziz
-  - Neetcode’s “Backtracking” playlist.
+  - [Backtracking Guide on GeeksforGeeks](https://www.geeksforgeeks.org/backtracking-algorithms/)
 - **Checkpoint:** Complete 20+ backtracking/greedy problems.
 
 #### **Month 3 - Week 3-4:** System Design Basics
 - **Topics:** High-level architecture, scalability, load balancing, and database design.
 - **Daily Practice:** Design 1-2 systems (e.g., URL shortener, chat app).
-- **Resources:**
+- **Resources:** 
   - "System Design Interview" by Alex Xu
-  - Gaurav Sen’s YouTube channel.
+  - [System Design Primer on GitHub](https://github.com/donnemartin/system-design-primer)
 - **Checkpoint:** Complete 4 system designs with detailed diagrams.
 
 ---
@@ -88,25 +88,25 @@ This plan is designed to systematically prepare you for the Google Software Engi
 #### **Week 1:** Tries, Heaps, and Advanced Trees
 - **Topics:** Trie operations, priority queues, segment trees, and Fenwick trees.
 - **Daily Practice:** Solve 3-4 problems.
-- **Resources:**
+- **Resources:** 
   - "Competitive Programming 3" by Steven Halim
-  - LeetCode’s “Tries” and “Heaps” problem sets.
+  - [LeetCode Explore: Tries](https://leetcode.com/explore/learn/)
 - **Checkpoint:** Solve 15+ problems and implement key data structures.
 
 #### **Week 2:** Distributed Systems and APIs
 - **Topics:** CAP theorem, REST APIs, and microservices.
 - **Daily Practice:** Design one system daily and review.
-- **Resources:**
+- **Resources:** 
   - "Designing Data-Intensive Applications" by Martin Kleppmann
-  - Educative’s “Grokking the System Design Interview”.
+  - [Grokking the System Design Interview](https://educative.io/courses/grokking-the-system-design-interview)
 - **Checkpoint:** Complete 3 distributed system designs.
 
 #### **Week 3-4:** Behavioral Interview Preparation
 - **Topics:** STAR methodology, conflict resolution, and leadership.
 - **Daily Practice:** Prepare 2-3 stories daily.
-- **Resources:**
+- **Resources:** 
   - "Decode and Conquer" by Lewis Lin
-  - Practice with peers or on Pramp.
+  - [Interviewing.io Behavioral Resources](https://interviewing.io/)
 - **Checkpoint:** Create a repository of 10 polished STAR stories.
 
 ---
