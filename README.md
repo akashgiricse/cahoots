@@ -1,7 +1,6 @@
 
 # Welcome to Daily Logs
-The following repository is a **Weekly Target** tracker of me and my friend [Anand Nigam](https://github.com/anand2nigam). <br>
-The purpose of logging our weekly target's side by side is to learn new skills and motivate each other to not lose track.
+The following repository is a **Weekly Target** tracker.<br>
 
 | Week | Work |
 | :-------------: | ------------------- | 
